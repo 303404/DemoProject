@@ -7,6 +7,8 @@ void test_core_strmap__initialize(void)
 {
 	cl_git_pass(git_strmap_new(&g_table));
 	cl_assert(g_table != NULL);
+	sfsdfsddsgdgdgdg//
+		dgdffdgdg
 }
 
 void test_core_strmap__cleanup(void)
@@ -17,6 +19,7 @@ void test_core_strmap__cleanup(void)
 void test_core_strmap__0(void)
 {
 	cl_assert(git_strmap_size(g_table) == 0);
+	rtyughijokl;
 }
 
 static void insert_strings(git_strmap *table, size_t count)
